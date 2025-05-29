@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/npmreact/static/css/main.f855e6bc.css",
+    "main.js": "/npmreact/static/js/main.ccd92f0b.js",
+    "static/js/453.0799a3d3.chunk.js": "/npmreact/static/js/453.0799a3d3.chunk.js",
+    "static/media/dimplelogo.png": "/npmreact/static/media/dimplelogo.d5513a5859157d74e513.png",
+    "index.html": "/npmreact/index.html",
+    "main.f855e6bc.css.map": "/npmreact/static/css/main.f855e6bc.css.map",
+    "main.ccd92f0b.js.map": "/npmreact/static/js/main.ccd92f0b.js.map",
+    "453.0799a3d3.chunk.js.map": "/npmreact/static/js/453.0799a3d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ccd92f0b.js"
+  ]
+}
